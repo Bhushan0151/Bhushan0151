@@ -1,6 +1,7 @@
 -  Hi, I’m @Bhushan0151
 -  I'm Enthusiastic for the DevOps And Technology
--  I’m interested in Latest Technology 
+-  I’m interested in Latest Technology
+-  How to reach me bhushansangale69@gmail.com
 -  You Can reach me on the Linkdin www.linkedin.com/in/bhushan-sangale-71184527a
 -  
 
