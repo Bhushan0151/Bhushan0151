@@ -4,7 +4,7 @@
 -  You Can reach me on the Linkdin www.linkedin.com/in/bhushan-sangale-71184527a
 -  
 
-**- You Can See My All Projects Hands-On Here --**
+**- You Can See My All Projects & Hands-On Here --**
 
 - https://bhushans-devops-organization.gitbook.io/ci-cd-jenkins/
 - https://bhushans-devops-organization.gitbook.io/docker-kubernetes/
